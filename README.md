@@ -16,3 +16,8 @@ Add your cloudinary credentials to main.py, auth.py and views.py files. (optiona
 Bulid with:
 
 Flask, HTML, CSS3, JavaScript, Botstrap, SQLite.
+
+
+If after signing up, you get some error, please sign up 2 or 3 more times, if you still get the same error, you can try to sign in now, it might work. 
+
+Thank You
